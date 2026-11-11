@@ -37,6 +37,7 @@ This system eliminates manual order errors and accelerates table service.
 - Assumption A-01: All cafe customers have access to the in-store digital kiosk or web app to place orders.
 - Question Q-01: Will cash payments be integrated directly into the system or handled separately at the counter?
 - Question Q-02: Which POS terminal hardware will be used to test NFR-01 performance benchmarks?
+question no 3 : how much time do you want your order to get prepare ?
 
 ## Project status and viewing
 This is a documentation-only project. No application has been built yet.
